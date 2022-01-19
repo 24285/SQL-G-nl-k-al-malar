@@ -1,1 +1,1 @@
-# SQL-G-nl-k-al-malar
+# SQL-Gunlukcalismalarmalar
